@@ -22,13 +22,6 @@
                         <xcad:LayoutDocumentPane>
                             <xcad:LayoutDocument ContentId="pieplot" Title="Pie Plot">
                                 <lvc:PieChart LegendLocation="Right" DisableAnimations="True">
-                                    <lvc:PieChart.Background>
-                                        <LinearGradientBrush EndPoint="1,1" MappingMode="RelativeToBoundingBox" StartPoint="0,0">
-                                            <GradientStop Color="#FF322E2E"/>
-                                            <GradientStop Color="#FF4E4C4C" Offset="0.5"/>
-                                            <GradientStop Color="#FF5A5A5A" Offset="1"></GradientStop>
-                                        </LinearGradientBrush>
-                                    </lvc:PieChart.Background>
                                     <lvc:PieChart.Series>
                                         <lvc:PieSeries Values="10" Title="BMW"/>
                                         <lvc:PieSeries Values="5" Title="AUDI"/>
