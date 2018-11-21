@@ -1,0 +1,45 @@
+2018-11-05 20:15:02.0731 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 20:15:44.1713 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 20:16:18.3919 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 20:16:18.5096 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-05 20:18:36.3273 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 20:18:36.4420 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-05 20:19:08.8104 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 20:19:08.9460 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-05 20:21:08.0024 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 20:21:08.0792 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-05 20:21:23.7891 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 20:21:23.8699 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-05 20:21:42.0341 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 20:26:00.2949 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 20:26:00.4086 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-05 20:27:28.2860 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 20:27:28.3647 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-05 20:42:03.8077 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 20:42:03.8885 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-05 20:45:29.7175 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 20:45:29.7963 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-05 20:46:02.2699 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 20:46:02.3487 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-05 20:46:05.4219 | INFO  | TestWpf.Visualization.ViewModels.ButtonViewModel | Selected Label1
+2018-11-05 20:46:07.9299 | INFO  | TestWpf.Visualization.ViewModels.LabelViewModel | Changed foreground color of label1 to #FF008000
+2018-11-05 20:47:49.3681 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 20:47:49.4658 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-05 20:48:21.5296 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 20:48:21.6243 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-05 20:48:54.2940 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 20:48:54.3658 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-05 20:49:03.1258 | INFO  | TestWpf.Visualization.ViewModels.ButtonViewModel | Selected Label1
+2018-11-05 20:49:03.6979 | INFO  | TestWpf.Visualization.ViewModels.LabelViewModel | Changed background color of label1 to #FF0000FF
+2018-11-05 20:49:07.7772 | INFO  | TestWpf.Visualization.ViewModels.LabelViewModel | Changed foreground color of label1 to #FF008000
+2018-11-05 20:49:07.7772 | INFO  | TestWpf.Visualization.ViewModels.LabelViewModel | Changed background color of label1 to #FF008000
+2018-11-05 20:49:28.4271 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 20:49:28.5078 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-05 20:50:01.4591 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 20:50:01.5239 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-05 21:06:44.7131 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 21:06:44.7979 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-05 21:07:17.2320 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 21:07:17.3258 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-05 21:53:09.4577 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-05 21:53:09.5884 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel

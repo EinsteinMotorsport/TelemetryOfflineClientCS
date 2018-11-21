@@ -1,0 +1,13 @@
+2018-11-04 19:11:03.2996 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-04 19:11:03.3904 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-04 19:12:00.8293 | INFO  | TestWpf.Visualization.ViewModels.ButtonViewModel | Selected Label1
+2018-11-04 19:12:02.1224 | INFO  | TestWpf.Visualization.ViewModels.LabelViewModel | Changed foreground color of label1 to #FFFF0000
+2018-11-04 19:12:16.6990 | INFO  | TestWpf.Visualization.ViewModels.ButtonViewModel | Selected Label2
+2018-11-04 19:12:18.1538 | INFO  | TestWpf.Visualization.ViewModels.LabelViewModel | Changed background color of label2 to #FF0000FF
+2018-11-04 19:12:19.4025 | INFO  | TestWpf.Visualization.ViewModels.ButtonViewModel | Selected Label3
+2018-11-04 19:12:23.9273 | INFO  | TestWpf.Visualization.ViewModels.LabelViewModel | Changed foreground color of label3 to #FFFFFF00
+2018-11-04 19:12:27.1650 | INFO  | TestWpf.Visualization.ViewModels.LabelViewModel | Changed background color of label3 to #FF008000
+2018-11-04 19:12:30.3784 | INFO  | TestWpf.Visualization.ViewModels.ButtonViewModel | Selected Label1
+2018-11-04 19:12:32.5809 | INFO  | TestWpf.Visualization.ViewModels.LabelViewModel | Changed background color of label1 to #FF0000FF
+2018-11-04 19:12:35.0744 | INFO  | TestWpf.Visualization.ViewModels.ButtonViewModel | Selected Label2
+2018-11-04 19:12:39.7193 | INFO  | TestWpf.Visualization.ViewModels.LabelViewModel | Changed foreground color of label2 to #FF008000

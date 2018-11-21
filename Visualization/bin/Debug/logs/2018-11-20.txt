@@ -1,0 +1,160 @@
+2018-11-20 19:02:54.7246 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | 
+2018-11-20 19:02:54.7782 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Started new Programm
+2018-11-20 19:02:54.7782 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-20 19:02:54.8455 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-20 19:02:54.8455 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created MenuBarViewModel
+2018-11-20 19:02:54.8455 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created SettingsViewModel
+2018-11-20 19:02:54.8485 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created GaugeViewModel
+2018-11-20 19:02:54.8485 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created PieViewModel
+2018-11-20 19:02:54.8485 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created BarViewModel
+2018-11-20 19:02:54.8485 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created CartesianViewModel
+2018-11-20 19:45:48.9375 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | 
+2018-11-20 19:45:48.9859 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Started new Programm
+2018-11-20 19:45:48.9859 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-20 19:45:49.0362 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-20 19:45:49.0362 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created MenuBarViewModel
+2018-11-20 19:45:49.0362 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created SettingsViewModel
+2018-11-20 19:45:49.0362 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created GaugeViewModel
+2018-11-20 19:45:49.0362 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created PieViewModel
+2018-11-20 19:45:49.0362 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created BarViewModel
+2018-11-20 19:45:49.0362 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created CartesianViewModel
+2018-11-20 22:12:56.8694 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | 
+2018-11-20 22:12:56.9249 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Started new Programm
+2018-11-20 22:12:56.9282 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-20 22:12:56.9694 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-20 22:12:56.9694 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created MenuBarViewModel
+2018-11-20 22:12:56.9694 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created SettingsViewModel
+2018-11-20 22:12:56.9744 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created GaugeViewModel
+2018-11-20 22:12:56.9744 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created PieViewModel
+2018-11-20 22:12:56.9744 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created BarViewModel
+2018-11-20 22:12:56.9744 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created CartesianViewModel
+2018-11-20 22:15:20.1169 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | 
+2018-11-20 22:15:20.1897 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Started new Programm
+2018-11-20 22:15:20.1950 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-20 22:15:20.2875 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-20 22:15:20.2875 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created MenuBarViewModel
+2018-11-20 22:15:20.2875 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created SettingsViewModel
+2018-11-20 22:15:20.2875 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created GaugeViewModel
+2018-11-20 22:15:20.2875 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created PieViewModel
+2018-11-20 22:15:20.3094 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created BarViewModel
+2018-11-20 22:15:20.3094 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created CartesianViewModel
+2018-11-20 22:18:40.2929 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | 
+2018-11-20 22:18:40.3408 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Started new Programm
+2018-11-20 22:18:40.3408 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-20 22:18:40.4315 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-20 22:18:40.4315 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created MenuBarViewModel
+2018-11-20 22:18:40.4425 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created SettingsViewModel
+2018-11-20 22:18:40.4425 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created GaugeViewModel
+2018-11-20 22:18:40.4425 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created PieViewModel
+2018-11-20 22:18:40.4425 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created BarViewModel
+2018-11-20 22:18:40.4604 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created CartesianViewModel
+2018-11-20 22:20:43.9380 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | 
+2018-11-20 22:20:44.0148 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Started new Programm
+2018-11-20 22:20:44.0148 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-20 22:20:44.1106 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-20 22:20:44.1106 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created MenuBarViewModel
+2018-11-20 22:20:44.1106 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created SettingsViewModel
+2018-11-20 22:20:44.1285 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created GaugeViewModel
+2018-11-20 22:20:44.1306 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created PieViewModel
+2018-11-20 22:20:44.1306 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created BarViewModel
+2018-11-20 22:20:44.1306 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created CartesianViewModel
+2018-11-20 22:21:12.2853 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | 
+2018-11-20 22:21:12.3435 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Started new Programm
+2018-11-20 22:21:12.3435 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-20 22:21:12.4170 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-20 22:21:12.4170 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created MenuBarViewModel
+2018-11-20 22:21:12.4170 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created SettingsViewModel
+2018-11-20 22:21:12.4170 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created GaugeViewModel
+2018-11-20 22:21:12.4170 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created PieViewModel
+2018-11-20 22:21:12.4170 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created BarViewModel
+2018-11-20 22:21:12.4359 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created CartesianViewModel
+2018-11-20 22:21:34.9642 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | 
+2018-11-20 22:21:35.0918 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Started new Programm
+2018-11-20 22:21:35.0918 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-20 22:21:35.2025 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-20 22:21:35.2025 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created MenuBarViewModel
+2018-11-20 22:21:35.2085 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created SettingsViewModel
+2018-11-20 22:21:35.2085 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created GaugeViewModel
+2018-11-20 22:21:35.2085 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created PieViewModel
+2018-11-20 22:21:35.2085 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created BarViewModel
+2018-11-20 22:21:35.2085 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created CartesianViewModel
+2018-11-20 22:22:04.8076 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | 
+2018-11-20 22:22:04.9363 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Started new Programm
+2018-11-20 22:22:04.9423 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-20 22:22:05.0510 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-20 22:22:05.0655 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created MenuBarViewModel
+2018-11-20 22:22:05.0655 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created SettingsViewModel
+2018-11-20 22:22:05.0750 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created GaugeViewModel
+2018-11-20 22:22:05.0750 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created PieViewModel
+2018-11-20 22:22:05.0750 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created BarViewModel
+2018-11-20 22:22:05.0830 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created CartesianViewModel
+2018-11-20 22:23:07.8756 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | 
+2018-11-20 22:23:07.9334 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Started new Programm
+2018-11-20 22:23:07.9334 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-20 22:23:08.0092 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-20 22:23:08.0092 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created MenuBarViewModel
+2018-11-20 22:23:08.0092 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created SettingsViewModel
+2018-11-20 22:23:08.0092 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created GaugeViewModel
+2018-11-20 22:23:08.0092 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created PieViewModel
+2018-11-20 22:23:08.0252 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created BarViewModel
+2018-11-20 22:23:08.0252 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created CartesianViewModel
+2018-11-20 22:23:29.6398 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | 
+2018-11-20 22:23:29.7254 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Started new Programm
+2018-11-20 22:23:29.7254 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-20 22:23:29.8042 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-20 22:23:29.8042 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created MenuBarViewModel
+2018-11-20 22:23:29.8042 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created SettingsViewModel
+2018-11-20 22:23:29.8042 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created GaugeViewModel
+2018-11-20 22:23:29.8042 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created PieViewModel
+2018-11-20 22:23:29.8042 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created BarViewModel
+2018-11-20 22:23:29.8172 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created CartesianViewModel
+2018-11-20 22:24:12.8710 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | 
+2018-11-20 22:24:12.9408 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Started new Programm
+2018-11-20 22:24:12.9468 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-20 22:24:13.0286 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-20 22:24:13.0395 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created MenuBarViewModel
+2018-11-20 22:24:13.0395 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created SettingsViewModel
+2018-11-20 22:24:13.0874 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created GaugeViewModel
+2018-11-20 22:24:13.0874 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created PieViewModel
+2018-11-20 22:24:13.0874 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created BarViewModel
+2018-11-20 22:24:13.0874 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created CartesianViewModel
+2018-11-20 22:26:05.5780 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | 
+2018-11-20 22:26:05.6459 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Started new Programm
+2018-11-20 22:26:05.6459 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-20 22:26:05.8752 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-20 22:26:05.8752 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created MenuBarViewModel
+2018-11-20 22:26:05.8752 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created SettingsViewModel
+2018-11-20 22:26:05.8816 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created GaugeViewModel
+2018-11-20 22:26:05.8816 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created PieViewModel
+2018-11-20 22:26:05.8816 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created BarViewModel
+2018-11-20 22:26:05.8816 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created CartesianViewModel
+2018-11-20 22:35:12.0576 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | 
+2018-11-20 22:35:12.1124 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Started new Programm
+2018-11-20 22:35:12.1164 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-20 22:35:12.1673 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-20 22:35:12.1673 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created MenuBarViewModel
+2018-11-20 22:35:12.1673 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created SettingsViewModel
+2018-11-20 22:35:12.1673 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created GaugeViewModel
+2018-11-20 22:35:12.1783 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created PieViewModel
+2018-11-20 22:35:12.1783 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created BarViewModel
+2018-11-20 22:35:12.1783 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created CartesianViewModel
+2018-11-20 22:47:00.9265 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | 
+2018-11-20 22:47:01.0195 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Started new Programm
+2018-11-20 22:47:01.0253 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-20 22:47:01.1270 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-20 22:47:01.1360 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created MenuBarViewModel
+2018-11-20 22:47:01.1360 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created SettingsViewModel
+2018-11-20 22:47:01.1360 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created GaugeViewModel
+2018-11-20 22:47:01.1360 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created PieViewModel
+2018-11-20 22:47:01.1360 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created BarViewModel
+2018-11-20 22:47:01.1490 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created CartesianViewModel
+2018-11-20 22:47:49.2933 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | 
+2018-11-20 22:47:49.3631 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Started new Programm
+2018-11-20 22:47:49.3681 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
+2018-11-20 22:47:49.4379 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
+2018-11-20 22:47:49.4379 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created MenuBarViewModel
+2018-11-20 22:47:49.4379 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created SettingsViewModel
+2018-11-20 22:47:49.4379 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created GaugeViewModel
+2018-11-20 22:47:49.4449 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created PieViewModel
+2018-11-20 22:47:49.4449 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created BarViewModel
+2018-11-20 22:47:49.4449 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created CartesianViewModel

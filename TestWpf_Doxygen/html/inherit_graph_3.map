@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_test_wpf_1_1_visualization_1_1_events_1_1_change_label_background_color_event.html" title="TestWpf.Visualization.Events.\lChangeLabelBackgroundColorEvent" alt="" coords="153,5,381,47"/>
+<area shape="rect" id="node3" href="$class_test_wpf_1_1_visualization_1_1_events_1_1_change_label_text_color_event.html" title="TestWpf.Visualization.Events.\lChangeLabelTextColorEvent" alt="" coords="170,71,365,112"/>
+<area shape="rect" id="node4" href="$class_test_wpf_1_1_visualization_1_1_events_1_1_label_selection_changed_event.html" title="TestWpf.Visualization.Events.\lLabelSelectionChangedEvent" alt="" coords="170,136,365,177"/>
+</map>

@@ -1,0 +1,9 @@
+M:\Testprogramme\TestWpf\DataGeneration\bin\Debug\TestWpf.DataGeneration.dll
+M:\Testprogramme\TestWpf\DataGeneration\bin\Debug\TestWpf.DataGeneration.pdb
+M:\Testprogramme\TestWpf\DataGeneration\bin\Debug\NLog.dll
+M:\Testprogramme\TestWpf\DataGeneration\bin\Debug\NLog.xml
+M:\Testprogramme\TestWpf\DataGeneration\obj\Debug\DataGeneration.csproj.CoreCompileInputs.cache
+M:\Testprogramme\TestWpf\DataGeneration\obj\Debug\DataGeneration.csproj.CopyComplete
+M:\Testprogramme\TestWpf\DataGeneration\obj\Debug\TestWpf.DataGeneration.dll
+M:\Testprogramme\TestWpf\DataGeneration\obj\Debug\TestWpf.DataGeneration.pdb
+M:\Testprogramme\TestWpf\DataGeneration\obj\Debug\DataGeneration.csprojAssemblyReference.cache
