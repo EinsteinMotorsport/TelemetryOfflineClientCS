@@ -3,9 +3,32 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Visualization", "Visualization", "{16520928-7D10-4B1D-9CAA-1558E4FC705D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Configs", "_Configs", "{90C13963-6F18-4924-8DBC-BE44BB57AB0D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataGeneration", "DataGeneration", "{AA02C379-2742-4CB5-B036-7BC99123E076}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Documents", "_Documents", "{1D38072F-5032-4763-9708-A1259ECE2AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gui", "Visualization\Gui\Gui.csproj", "{EFEAD87C-B316-494B-9D40-F18AF868AC51}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFEAD87C-B316-494B-9D40-F18AF868AC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEAD87C-B316-494B-9D40-F18AF868AC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEAD87C-B316-494B-9D40-F18AF868AC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEAD87C-B316-494B-9D40-F18AF868AC51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EFEAD87C-B316-494B-9D40-F18AF868AC51} = {16520928-7D10-4B1D-9CAA-1558E4FC705D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C5A84566-75B7-423B-A405-9DCF8E36D9F2}

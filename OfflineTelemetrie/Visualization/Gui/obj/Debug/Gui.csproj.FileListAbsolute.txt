@@ -1,0 +1,15 @@
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\Visualization\Gui\bin\Debug\Gui.exe.config
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\Visualization\Gui\bin\Debug\Gui.exe
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\Visualization\Gui\bin\Debug\Gui.pdb
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\Visualization\Gui\obj\Debug\Gui.csprojAssemblyReference.cache
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\Visualization\Gui\obj\Debug\MainWindow.g.cs
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\Visualization\Gui\obj\Debug\App.g.cs
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\Visualization\Gui\obj\Debug\Gui_MarkupCompile.cache
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\Visualization\Gui\obj\Debug\Gui_MarkupCompile.lref
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\Visualization\Gui\obj\Debug\MainWindow.baml
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\Visualization\Gui\obj\Debug\Gui.g.resources
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\Visualization\Gui\obj\Debug\Gui.Properties.Resources.resources
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\Visualization\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\Visualization\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\Visualization\Gui\obj\Debug\Gui.exe
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\Visualization\Gui\obj\Debug\Gui.pdb
