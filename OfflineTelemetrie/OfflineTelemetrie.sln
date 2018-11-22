@@ -6,6 +6,10 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Visualization", "Visualization", "{16520928-7D10-4B1D-9CAA-1558E4FC705D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Configs", "_Configs", "{90C13963-6F18-4924-8DBC-BE44BB57AB0D}"
+	ProjectSection(SolutionItems) = preProject
+		_Configs\DatasetConfig.txt = _Configs\DatasetConfig.txt
+		_Configs\VorlageNLogConfig.txt = _Configs\VorlageNLogConfig.txt
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataGeneration", "DataGeneration", "{AA02C379-2742-4CB5-B036-7BC99123E076}"
 EndProject
