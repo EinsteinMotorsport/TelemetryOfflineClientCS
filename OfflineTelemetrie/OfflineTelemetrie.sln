@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Documents", "_Documents", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gui", "Visualization\Gui\Gui.csproj", "{EFEAD87C-B316-494B-9D40-F18AF868AC51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dataset", "DataGeneration\Dataset\Dataset.csproj", "{C8140917-B1CA-4E1C-BBCF-1CE98DB3FC45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +25,17 @@ Global
 		{EFEAD87C-B316-494B-9D40-F18AF868AC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFEAD87C-B316-494B-9D40-F18AF868AC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFEAD87C-B316-494B-9D40-F18AF868AC51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8140917-B1CA-4E1C-BBCF-1CE98DB3FC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8140917-B1CA-4E1C-BBCF-1CE98DB3FC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8140917-B1CA-4E1C-BBCF-1CE98DB3FC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8140917-B1CA-4E1C-BBCF-1CE98DB3FC45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EFEAD87C-B316-494B-9D40-F18AF868AC51} = {16520928-7D10-4B1D-9CAA-1558E4FC705D}
+		{C8140917-B1CA-4E1C-BBCF-1CE98DB3FC45} = {AA02C379-2742-4CB5-B036-7BC99123E076}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C5A84566-75B7-423B-A405-9DCF8E36D9F2}

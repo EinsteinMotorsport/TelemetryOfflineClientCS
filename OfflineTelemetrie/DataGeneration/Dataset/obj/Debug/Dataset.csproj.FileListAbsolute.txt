@@ -1,0 +1,6 @@
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\DataGeneration\Dataset\bin\Debug\OfflineTelemetrie.DataGeneration.Dataset.dll
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\DataGeneration\Dataset\bin\Debug\OfflineTelemetrie.DataGeneration.Dataset.pdb
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\DataGeneration\Dataset\obj\Debug\Dataset.csprojAssemblyReference.cache
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\DataGeneration\Dataset\obj\Debug\Dataset.csproj.CoreCompileInputs.cache
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\DataGeneration\Dataset\obj\Debug\OfflineTelemetrie.DataGeneration.Dataset.dll
+M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\DataGeneration\Dataset\obj\Debug\OfflineTelemetrie.DataGeneration.Dataset.pdb

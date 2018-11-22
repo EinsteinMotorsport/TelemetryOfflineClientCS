@@ -1,18 +1,18 @@
-﻿Gui
+﻿OfflineTelemetrie.Visualization.Gui
 
 
 winexe
 C#
 .cs
 M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\Visualization\Gui\obj\Debug\
-Gui
+OfflineTelemetrie.Visualization.Gui
 none
 false
 DEBUG;TRACE
 M:\gitRepository\TelemetryOfflineClientCS\OfflineTelemetrie\Visualization\Gui\App.xaml
 11151548125
 
-6-1073914660
+101420431332
 131569487696
 MainWindow.xaml;
 

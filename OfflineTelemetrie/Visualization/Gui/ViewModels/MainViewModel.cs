@@ -1,4 +1,4 @@
-﻿namespace Gui.ViewModels
+﻿namespace OfflineTelemetrie.Visualization.Gui.ViewModels
 {
     class MainViewModel
     {
