@@ -1,7 +1,0 @@
-2018-11-13 21:55:26.8942 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | 
-2018-11-13 21:55:26.9611 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Started new Programm
-2018-11-13 21:55:26.9611 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created ButtonViewModel
-2018-11-13 21:55:27.0219 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created LabelViewModel
-2018-11-13 21:55:27.0219 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created MenuBarViewModel
-2018-11-13 21:55:27.0219 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created SettingsViewModel
-2018-11-13 21:55:27.0219 | INFO  | TestWpf.Visualization.ViewModels.MainViewModel | Created GaugeViewModel
